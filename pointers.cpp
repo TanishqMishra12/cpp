@@ -1,5 +1,3 @@
-// C++ program to demonstrate use of pointers in C++;
-
 #include <iostream>
 using namespace std;
 

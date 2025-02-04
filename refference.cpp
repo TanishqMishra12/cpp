@@ -1,5 +1,3 @@
-// C++ Program to demonstrate use of references
-
 #include <iostream>
 using namespace std;
 
