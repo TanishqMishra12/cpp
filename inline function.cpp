@@ -1,4 +1,4 @@
-#include <iostream.h>
+#include <iostream>
 using namespace std;
 inline int Max(int x, int y) //defined function as inlined
 {

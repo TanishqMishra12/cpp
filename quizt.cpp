@@ -28,10 +28,11 @@ int main()
 		<< endl;
 	cout << "\nPress Enter to start "
 		<< "the quiz... " << endl;
+		
 
-	// Input
 	cin.get();
 
+	Total = 0;
 	string Name;
 	int Age;
 
