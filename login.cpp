@@ -4,7 +4,6 @@
 #include <sstream>
 using namespace std;
 
-// Enum to represent log levels
 enum LogLevel { DEBUG, INFO, WARNING, ERROR, CRITICAL };
 
 class Logger {
