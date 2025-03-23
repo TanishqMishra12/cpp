@@ -13,7 +13,7 @@ int main()
 	cout << x << endl;
 
 	// print the address stored in myptr pointer variable
-	cout << "Address stored in myptr is: ";
+	cout << "Address stored in myptr is: "; 
 	cout << myptr << endl;
 
 	// printing value of x using pointer myptr
